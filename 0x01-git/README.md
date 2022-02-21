@@ -1,1 +1,1 @@
-This is my first project on alx
+My first project on alx
